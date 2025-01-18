@@ -5,7 +5,8 @@ uvicorn
 gunicorn
 apphelpers
 peewee
-psycopg2
+psycopg2-binary
+setuptools
 arrow
 redis
 black
